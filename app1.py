@@ -29,7 +29,7 @@ def foo(w):
             return "I do not understand your query."
 
     else:
-        return "The world does not exist. Please double check it."
+        return "The word does not exist. Please double check it."
 
 word = input("Enter word: ")
 
